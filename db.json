@@ -52,19 +52,19 @@
                 "price": 51.00,
                 "size": "large",
                 "tag": "Free Shipping",
-                "image": "https://i.ebayimg.com/thumbs/images/m/mZC41E_NsQNFjBdaRJm2dIQ/s-l225.jpg",
+                "image": "https://i.ebayimg.com/images/g/wroAAOSwtJ5iCPJ2/s-l1600.png",
                 "type": "dress shirts"
             }
         },
         {
             "id": "5",
-            "name": "Seidensticker Tailored Chambray Stripe Long Sleeve Shirt - Blue/Grey",
+            "name": "BLANCHE CASUAL DRESS",
             "details": {
                 "price": 76.54,
                 "size": "small",
                 "tag": "Free Shipping",
-                "image": "https://i.ebayimg.com/thumbs/images/m/mkScah0HO1z3jp1rJ8wBhrA/s-l225.jpg",
-                "type": "dress shirts"
+                "image": "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/74d3832b7888c5ab48c85e1464928c25c61fad2f.jpg",
+                "type": "dress"
             }
         }
       ]
